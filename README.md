@@ -6,6 +6,7 @@
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,js" alt="Python, JavaScript" />&nbsp;
+
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" />
@@ -13,6 +14,7 @@
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />&nbsp;
+
 **Work environment**
 
 <img src="https://skillicons.dev/icons?i=git" alt="NGit" />&nbsp;
