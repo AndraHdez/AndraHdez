@@ -1,32 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alessandra</h1>
-<h3 align="center">A software engineer student from Mexico</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=200&size=24&pause=1000&color=F5ECD2&center=true&vCenter=true&width=435&lines=Hola+soy+Alessandra+;Estudiante+de+Ingenier%C3%ADa+de;Sistemas+Computacionales)](https://git.io/typing-svg)
 
-## 🛠️ Tech stack
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndraHdez&theme=dark&locale=es&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-**Languages**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndraHdez&theme=radical&show_icons=true&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://skillicons.dev/icons?i=python,js" alt="Python, JavaScript" />&nbsp;
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />&nbsp;
-
-**Work environment**
-
-<img src="https://skillicons.dev/icons?i=git" alt="NGit" />&nbsp;
-
-## 📅 Hobbies
-- 
-
-## 💻 Current projects
-- 
-
-## 🎵 Spotify status
-
-<a href="https://spotify-widget.jvillegasd.com/?opened">
-  <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
-</a>//
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndraHdez&theme=onedark&hide_border=true&layout=compact&locale=es)
