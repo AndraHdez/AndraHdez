@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndraHdez&theme=radical&show_icons=true&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndraHdez&theme=onedark&hide_border=true&layout=compact&locale=es)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com?user=AndraHdez&theme=dark)](https://git.io/streak-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=AndraHdez&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndraHdez&theme=rogue&hide_border=true&area=true)
 
